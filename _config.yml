@@ -37,7 +37,7 @@ url: "https://ramirojc.github.io" # the base hostname & protocol for your site, 
 baseurl: "/datable" # the subpath of your site, e.g. "/blog".
 
 # Email and twitter are optional:
-email: 
+email: "ramirojc@gmail.com"
 twitter_username: "RamiroJC_83"
 
 # Set this to true to get LaTeX math equation support
