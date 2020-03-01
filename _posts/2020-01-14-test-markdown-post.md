@@ -1,9 +1,9 @@
 ---
 toc: true
-description: A minimal example of using markdown with fastpages.
+description: Ejemplo de post con Markdown.
 categories: [markdown]
 ---
-# Example Markdown Post
+# Titulo Principal
 
 ## Basic setup
 
